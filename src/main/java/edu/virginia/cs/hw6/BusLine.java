@@ -1,4 +1,4 @@
-package hw6;
+package edu.virginia.cs.hw6;
 
 public class BusLine {
     private int id;

@@ -1,4 +1,4 @@
-package hw6;
+package edu.virginia.cs.hw6;
 
 import java.util.ArrayList;
 import java.util.List;

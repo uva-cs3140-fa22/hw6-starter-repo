@@ -1,4 +1,4 @@
-package hw6;
+package edu.virginia.cs.hw6;
 
 public class ConfigSingleton {
     private static final String configurationFileName = "config.json";
