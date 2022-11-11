@@ -11,7 +11,7 @@ public class ConfigSingleton {
         setFieldsFromJSON();
     }
 
-    public ConfigSingleton getInstance() {
+    public static ConfigSingleton getInstance() {
         if (instance == null) {
             instance = new ConfigSingleton();
         }
